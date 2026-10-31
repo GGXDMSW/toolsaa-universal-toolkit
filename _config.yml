@@ -1,0 +1,8 @@
+# GitHub Pages Jekyll Configuration for ToolsAA Universal Toolkit
+theme: jekyll-theme-cayman
+title: "ToolsAA Universal Toolkit"
+description: "One site for all humanity: 10,000+ universal, client-side web tools across daily life, finance, health, and engineering. 100% private, zero-upload & ad-free."
+url: "https://toolsaa.com"
+canonical_url: "https://toolsaa.com"
+plugins:
+  - jekyll-seo-tag
