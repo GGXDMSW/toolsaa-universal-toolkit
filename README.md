@@ -10,7 +10,7 @@
 
 > **The ToolsAA Promise**: Humanity shouldn't need 50 different bookmark folders, 30 subscription paywalls, and hundreds of cookie banners just to calculate a mortgage, check a BMI, encode a base64 string, or resize an image. ToolsAA is built on a single, uncompromising standard: **Universal Completeness**. Whatever task arises in human daily life, career, or engineering — you come to one site, solve it in seconds, and leave with complete privacy intact.
 
-👉 **Official Web Portal**: [https://toolsaa.com](https://toolsaa.com) — *Solve everything, anywhere, anytime.*
+👉 **Official Web Portal**: [toolsaa.com](https://toolsaa.com) — *Solve everything, anywhere, anytime.*
 
 ---
 
