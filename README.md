@@ -39,15 +39,23 @@ canonical_url: https://toolsaa.com/
 * [Age & Life Milestone Calculator](https://toolsaa.com/tools/age-calculator) - Exact chronological age in years, months, days, upcoming milestones, and life countdowns.
 * [Aspect Ratio & Image Resizer](https://toolsaa.com/tools/aspect-ratio-calculator) - Responsive display scaling, social media dimensions (16:9, 4:3, 21:9), and crop ratios.
 * [Unit & Measurement Converter](https://toolsaa.com/tools/unit-converter) - Universal conversion across metric, imperial, volume, length, mass, and temperature.
+* [Mortgage Repayment Calculator](https://toolsaa.com/tools/mortgage-calculator) - Monthly principal, amortized interest schedule, and total home loan cost breakdown.
+* [Sleep Cycle & Wake-Up Calculator](https://toolsaa.com/tools/sleep-cycle-calculator) - Calculate natural wake-up and bedtime windows based on 90-minute REM cycles.
+* [Fuel Cost & Trip Expense Calculator](https://toolsaa.com/tools/fuel-cost-calculator) - Accurate fuel consumption per mile/km, total journey budget, and passenger cost splits.
 
 ### 🏃 2. Health, Fitness & Vitality
 * [BMI & Health Baseline Calculator](https://toolsaa.com/tools/bmi-calculator) - Instant body mass index, healthy weight boundary guidance, and metabolic wellness baselines.
+* [Calorie Deficit & TDEE Calculator](https://toolsaa.com/tools/calorie-deficit-calculator) - Total daily energy expenditure, basal metabolic rate, and healthy target calorie deficit for sustainable weight loss.
+* [Daily Water Intake Calculator](https://toolsaa.com/tools/water-intake-calculator) - Personalized daily hydration targets based on body weight, climate heat, and physical activity levels.
+* [Body Fat Calculator (U.S. Navy Method)](https://toolsaa.com/tools/body-fat-navy-calculator) - Accurate body composition estimation using circumference measurements without calipers.
 
 ### 💼 3. Personal Finance, Wealth & Freelance
 * [Freelance Hourly Rate Calculator](https://toolsaa.com/tools/freelance-hourly-rate-calculator) - Accurately calculate billable freelance rates based on personal expenses, business overhead, and target net income.
 * [Emergency Fund Calculator](https://toolsaa.com/tools/emergency-fund-calculator) - Plan a resilient 3-6 month family safety net based on monthly burn rate and household stability.
 * [Break-Even Point Calculator](https://toolsaa.com/tools/break-even-calculator) - Calculate break-even unit sales, target profit thresholds, and business contribution margins.
 * [Compound Interest Growth Calculator](https://toolsaa.com/tools/compound-interest-calculator) - Project multi-year wealth accumulation, compounding interest intervals, and savings trajectories.
+* [Auto Loan Refinance Calculator](https://toolsaa.com/tools/auto-refinance-calculator) - Calculate monthly payment savings and total interest reduction when refinancing car loans.
+* [Savings Goal & Target Timeline Calculator](https://toolsaa.com/tools/savings-goal-calculator) - Reverse-engineer monthly contribution amounts required to reach future financial milestones.
 
 ### 🔐 4. Security, Cryptography & Privacy Tools
 * [UUID / GUID Generator](https://toolsaa.com/tools/uuid-generator) - Bulk generation of v1 and v4 cryptographically secure unique identifiers.
@@ -88,7 +96,7 @@ ToolsAA is natively transcreated across 6 major global languages — eliminating
 3. **Zero Dark Patterns, Zero Ads**:
    No subscription paywalls, no fake 'Download' buttons, no forced account signups. Clean, instant, distraction-free productivity.
 4. **Continuous Civilization Scaling**:
-   Currently serving 328+ production tools across 1,921+ static pages, marching towards a permanent 10,000+ universal tool ecosystem.
+   Currently serving 420 production-ready tools across 2,406 static pages (2,520 localized cheatsheets across 6 languages), marching towards a permanent 10,000+ universal tool ecosystem.
 
 ---
 
