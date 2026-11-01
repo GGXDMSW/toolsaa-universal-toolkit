@@ -1,3 +1,16 @@
+---
+layout: default
+title: "ToolsAA - The Universal Human Civilization Toolkit"
+permalink: /
+canonical_url: https://toolsaa.com/
+---
+<!-- Language Navigation Bar -->
+<div align="center">
+
+[ **English** | [日本語](README.ja.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Português (Brasil)](README.pt.md) | [Français](README.fr.md) ]
+
+</div>
+
 # 🌐 ToolsAA: The Universal Human Civilization Toolkit
 ### One Site to Solve It All — 10,000+ Universal Client-Side Tools for Daily Life, Work & Everything in Between
 
