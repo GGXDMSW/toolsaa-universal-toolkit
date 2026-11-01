@@ -65,7 +65,7 @@ Ihre eingegebenen Daten ──▶ [ Sofortige lokale Berechnung im Browser (WebA
 
 ## 📂 8 Hauptkategorien und ausgewählte Werkzeuge
 
-Hier finden Sie eine Übersicht häufig genutzter Werkzeuge mit Direktlinks zur deutschen Sprachversion:
+Hier finden Sie eine Übersicht häufig genutzter Werkzeuge mit Direktlinks zur deutschen Sprachversion *(aktuell 420 praxiserprobte Werkzeuge auf 2.406 statischen Seiten verfügbar)*:
 
 ### 1. 💰 Finanzen, Arbeit & Betriebswirtschaft
 * [Notgroschen-Rechner (Liquiditätsreserve)](https://toolsaa.com/de/tools/emergency-fund-calculator) — Berechnen Sie präzise, wie viele Monatsausgaben Sie als finanzielle Rücklage für unvorhergesehene Krisen benötigen.
@@ -73,17 +73,22 @@ Hier finden Sie eine Übersicht häufig genutzter Werkzeuge mit Direktlinks zur 
 * [Prozentrechner, Rabatte & Wachstumsraten](https://toolsaa.com/de/tools/percentage-calculator) — Berechnen Sie prozentuale Zu- und Abschläge, Skonto und relative Differenzen mit einem Klick.
 * [Umschuldungs- & Autokredit-Rechner](https://toolsaa.com/de/tools/auto-refinance-calculator) — Ermitteln Sie das Einsparpotenzial durch Zinssenkungen bei bestehenden Krediten oder Fahrzeugfinanzierungen.
 * [Provisions- & Margenrechner](https://toolsaa.com/de/tools/commission-calculator) — Berechnen Sie den tatsächlichen Nettogewinn und die Handelsspanne nach Abzug von Plattform- und Vermittlungsgebühren.
+* [Baufinanzierungs- & Tilgungsrechner](https://toolsaa.com/de/tools/mortgage-calculator) — Monatliche Raten, Zinsanteile und detaillierter Tilgungsverlauf für Immobilienkredite.
+* [Sparziel- & Sparratenrechner](https://toolsaa.com/de/tools/savings-goal-calculator) — Ermitteln Sie die nötige monatliche Sparrate, um finanzielle Meilensteine pünktlich zu erreichen.
 
 ### 2. 🏃 Gesundheit, Fitness & Vitalparameter
 * [Körperfettanteil-Rechner (US-Navy-Methode)](https://toolsaa.com/de/tools/body-fat-navy-calculator) — Bestimmen Sie den Körperfettanteil (KFA) präzise anhand von Körpergröße, Nacken- und Taillenumfang.
 * [Kaloriendefizit-Rechner für nachhaltige Gewichtsreduktion](https://toolsaa.com/de/tools/calorie-deficit-calculator) — Ermitteln Sie Ihren optimalen täglichen Kalorienbedarf und das gesunde Defizit für Ihr Wunschgewicht.
 * [One-Rep-Max (1RM) Rechner für Bankdrücken](https://toolsaa.com/de/tools/bench-press-one-rep-max-calculator) — Berechnen Sie Ihre theoretische Maximalleistung sicher aus Ihren regulären Trainingssätzen.
 * [Promillerechner (Blutalkoholkonzentration nach der Widmark-Formel)](https://toolsaa.com/de/tools/blood-alcohol-calculator) — Wissenschaftliche Schätzung des Blutalkoholspiegels und der Abbauzeit nach Geschlecht und Gewicht.
+* [Optimaler Wasserbedarfsrechner](https://toolsaa.com/de/tools/water-intake-calculator) — Präzise tägliche Flüssigkeitsempfehlung abgestimmt auf Körpergewicht, Umgebungstemperatur und sportliche Aktivität.
 
 ### 3. ⏱️ Alltag, Haushalt & Praktische Einheiten
 * [Küchenmaße-Umrechner (Esslöffel, Teelöffel, Tassen, Gramm)](https://toolsaa.com/de/tools/cooking-measurement-converter) — Rechnen Sie internationale Rezeptangaben präzise in Gramm (g), Milliliter (ml), Esslöffel (EL) und Teelöffel (TL) um.
 * [Reisegepäck-Gewichtsrechner (kg ⇄ lbs)](https://toolsaa.com/de/tools/luggage-weight-converter) — Vergleichen Sie Koffer- und Handgepäckgewichte mit den Freigepäckgrenzen internationaler Fluggesellschaften.
 * [Event-Countdown-Timer](https://toolsaa.com/de/tools/event-countdown-timer) — Verfolgen Sie verbleibende Tage, Stunden und Minuten bis zu wichtigen Fristen, Prüfungen oder Jubiläen.
+* [Schlafzyklus- & REM-Phasen-Rechner](https://toolsaa.com/de/tools/sleep-cycle-calculator) — Optimale Aufwach- und Schlafenszeiten berechnen für erholtes Aufstehen im 90-Minuten-Takt.
+* [Spritkosten- & Fahrtkostenrechner](https://toolsaa.com/de/tools/fuel-cost-calculator) — Genaue Kraftstoffkosten pro Kilometer, Gesamtreisekosten und einfache Ausgabenaufteilung für Fahrgemeinschaften.
 
 ### 4. 💻 Webentwicklung & System-Engineering
 * [cURL-Befehl zu JavaScript fetch Konverter](https://toolsaa.com/de/tools/curl-to-fetch-converter) — Wandeln Sie Terminal-cURL-Aufrufe direkt in sauberen, modernen JavaScript-Code um.
