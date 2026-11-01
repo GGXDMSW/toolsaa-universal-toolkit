@@ -65,7 +65,7 @@ ToolsAA の最大の特徴は、**「外部サーバーにデータを一切送�
 
 ## 📂 8つの主要カテゴリと代表ツール一覧
 
-現在、以下の8大分野において厳選された実用ツールを公開しています。すべてのリンクは日本語公式ページへ直結しています：
+現在、以下の8大分野において**420款の実用ツール（全2,406静的ページ）**を完全クライアント完結・データ送信ゼロで公開しています。すべてのリンクは日本語公式ページへ直結しています：
 
 ### 1. 💰 ファイナンス・日常の経済計算
 * [生活防衛資金シミュレーター](https://toolsaa.com/ja/tools/emergency-fund-calculator) — 万が一の失業や休職に備え、何ヶ月分の生活費をどう確保すべきかを高精度に試算。
@@ -73,17 +73,22 @@ ToolsAA の最大の特徴は、**「外部サーバーにデータを一切送�
 * [パーセンテージ・割引率・増減計算](https://toolsaa.com/ja/tools/percentage-calculator) — 割引セール、前年比成長率、消費税の増減などを1クリックで即時算出。
 * [借換（リファイナンス）削減額シミュレーター](https://toolsaa.com/ja/tools/auto-refinance-calculator) — 金利引き下げによる総支払利息の圧縮効果を比較。
 * [販売手数料・マージン計算](https://toolsaa.com/ja/tools/commission-calculator) — フリマ出品や仲介取引における純利益と手数料率を瞬時に可視化。
+* [住宅ローン返済シミュレーター](https://toolsaa.com/ja/tools/mortgage-calculator) — 返済額、金利、借入期間に基づく月々の支払額と総利息の内訳を即時算出。
+* [貯金目標逆算プランナー](https://toolsaa.com/ja/tools/savings-goal-calculator) — 目標金額と達成期日から逆算する月々の必要積立額をシミュレーション。
 
 ### 2. 🏃 健康管理・フィットネス・生体指標
 * [体脂肪率計算（米国海軍方式）](https://toolsaa.com/ja/tools/body-fat-navy-calculator) — 身長・首回り・ウエスト測定値から体脂肪率を高精度に推定。
 * [カロリー収支・減量ペース計算](https://toolsaa.com/ja/tools/calorie-deficit-calculator) — 目標体重と期限から、1日あたりの適正摂取カロリーと消費目標を提示。
 * [最大筋力（1RM）換算ツール](https://toolsaa.com/ja/tools/bench-press-one-rep-max-calculator) — ベンチプレスなどの挙上回数から最大挙上重量を安全に予測。
 * [血中アルコール濃度（BAC）推計](https://toolsaa.com/ja/tools/blood-alcohol-calculator) — 飲酒量、度数、経過時間から分解目安時間をシミュレーション。
+* [水分摂取量計算機](https://toolsaa.com/ja/tools/water-intake-calculator) — 体重・活動量・気候条件から算出する1日の最適な推奨水分補給量。
 
 ### 3. ⏱️ 日常生活・実用単位変換
 * [料理計量・分量換算](https://toolsaa.com/ja/tools/cooking-measurement-converter) — 大さじ、小さじ、カップ、グラム（g）、オンス（oz）を食材密度に応じて換算。
 * [受託手荷物・重量換算](https://toolsaa.com/ja/tools/luggage-weight-converter) — 航空会社の預け入れ手荷物制限（kg ⇄ lbs）を瞬時に照合。
 * [イベント・記念日カウントダウン](https://toolsaa.com/ja/tools/event-countdown-timer) — 目標期日までの残り時間・日数をリアルタイム表示。
+* [睡眠サイクル計算機](https://toolsaa.com/ja/tools/sleep-cycle-calculator) — 90分レム睡眠周期に基づく最適な就寝・起床時刻の逆算。
+* [燃料費・ガソリン代計算機](https://toolsaa.com/ja/tools/fuel-cost-calculator) — 走行距離・燃費・ガソリン価格から移動コストと乗車人数での割り勘を瞬時に算出。
 
 ### 4. 💻 Web開発・システムエンジニアリング
 * [cURL コマンド ⇄ JavaScript fetch 変換](https://toolsaa.com/ja/tools/curl-to-fetch-converter) — ターミナルの curl 文を即座にコピペ可能なモダンJSコードに整形。
