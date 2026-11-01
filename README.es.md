@@ -65,7 +65,7 @@ Sus datos introducidos ──▶ [ Procesamiento inmediato en su navegador (WebA
 
 ## 📂 8 Categorías Principales y Herramientas Destacadas
 
-Consulte algunas de las herramientas más utilizadas, con enlaces directos a la versión en español:
+Consulte algunas de las herramientas más utilizadas, con enlaces directos a la versión en español *(actualmente con 420 herramientas en producción y 2.406 páginas estáticas multilíngües)*:
 
 ### 1. 💰 Finanzas, Trabajo y Economía Cotidiana
 * [Calculadora de Fondo de Emergencia](https://toolsaa.com/es/tools/emergency-fund-calculator) — Calcule con precisión cuántos meses de gastos fijos debe reservar según su nivel de estabilidad laboral y compromisos financieros.
@@ -73,17 +73,22 @@ Consulte algunas de las herramientas más utilizadas, con enlaces directos a la 
 * [Calculadora de Porcentajes, Descuentos y Variaciones](https://toolsaa.com/es/tools/percentage-calculator) — Calcule incrementos porcentuales, descuentos de compras y diferencias relativas en 1 solo clic.
 * [Simulador de Refinanciamiento y Reducción de Intereses](https://toolsaa.com/es/tools/auto-refinance-calculator) — Analice el ahorro potencial en cuotas mensuales y coste total al renegociar las tasas de interés de préstamos o créditos vehiculares.
 * [Calculadora de Comisión y Margen de Ganancia](https://toolsaa.com/es/tools/commission-calculator) — Calcule el beneficio neto real tras deducir las comisiones de pasarelas de pago y plataformas de venta.
+* [Calculadora de Hipoteca y Amortización](https://toolsaa.com/es/tools/mortgage-calculator) — Cuotas mensuales, desglose de capital e intereses y coste total del préstamo inmobiliario.
+* [Calculadora de Metas de Ahorro e Inversión](https://toolsaa.com/es/tools/savings-goal-calculator) — Estime la aportación periódica necesaria para alcanzar su fondo o meta financiera a tiempo.
 
 ### 2. 🏃 Salud, Bienestar y Métricas Corporales
 * [Calculadora de Grasa Corporal (Método de la Marina de EE. UU.)](https://toolsaa.com/es/tools/body-fat-navy-calculator) — Estime su porcentaje de grasa corporal con alta precisión utilizando medidas de cinta métrica (altura, cuello y cintura).
 * [Calculadora de Déficit Calórico y Pérdida de Peso](https://toolsaa.com/es/tools/calorie-deficit-calculator) — Planifique su objetivo de calorías diarias y el déficit óptimo para bajar de peso de forma sostenible y saludable.
 * [Calculadora de Fuerza Máxima 1RM (Press de Banca)](https://toolsaa.com/es/tools/bench-press-one-rep-max-calculator) — Calcule su repetición máxima teórica de manera segura a partir de sus repeticiones habituales.
 * [Estimación de Nivel de Alcohol en Sangre (BAC)](https://toolsaa.com/es/tools/blood-alcohol-calculator) — Simulación científica de alcoholemia y tiempo estimado de metabolización según peso y consumo.
+* [Calculadora de Consumo Diario de Agua](https://toolsaa.com/es/tools/water-intake-calculator) — Nivel óptimo de hidratación según masa corporal, condiciones térmicas y nivel de entrenamiento.
 
 ### 3. ⏱️ Día a Día, Hogar y Conversiones Prácticas
 * [Conversor de Medidas de Cocina (Cucharas, Tazas y Gramos)](https://toolsaa.com/es/tools/cooking-measurement-converter) — Convierta fácilmente cucharadas, cucharaditas, tazas (cups), gramos (g) y mililitros (ml) adaptados a la densidad del ingrediente.
 * [Conversor de Peso de Equipaje de Viaje (kg ⇄ lbs)](https://toolsaa.com/es/tools/luggage-weight-converter) — Convierta kilos a libras y verifique los límites de peso de equipaje facturado de aerolíneas internacionales.
 * [Temporizador de Cuenta Regresiva para Eventos](https://toolsaa.com/es/tools/event-countdown-timer) — Visualice los días, horas y minutos exactos que restan para fechas especiales, exámenes o vacaciones.
+* [Calculadora de Ciclos de Sueño y Despertar](https://toolsaa.com/es/tools/sleep-cycle-calculator) — Calcule las horas óptimas para acostarse y despertar descansado en intervalos REM de 90 minutos.
+* [Calculadora de Gastos de Combustible y Trayectos](https://toolsaa.com/es/tools/fuel-cost-calculator) — Consumo de combustible por kilómetro, coste total del viaje y división de gastos entre pasajeros.
 
 ### 4. 💻 Desarrollo Web e Ingeniería de Software
 * [Conversor de comandos cURL a JavaScript fetch Moderno](https://toolsaa.com/es/tools/curl-to-fetch-converter) — Convierta peticiones cURL de terminal en código JavaScript nativo listo para integrar en sus proyectos.
