@@ -65,7 +65,7 @@ Vos données saisies ──▶ [ Calcul instantané dans votre navigateur (WebAs
 
 ## 📂 8 Catégories Principales et Outils Phares
 
-Découvrez ci-dessous quelques-uns des outils les plus sollicités, avec des liens directs vers leur version francophone :
+Découvrez ci-dessous quelques-uns des outils les plus sollicités, avec des liens directs vers leur version francophone *(actuellement plus de 420 outils en production et 2 406 pages statiques en 6 langues)* :
 
 ### 1. 💰 Finances, Travail & Gestion du Quotidien
 * [Calculateur d'Épargne de Précaution (Fonds d'Urgence)](https://toolsaa.com/fr/tools/emergency-fund-calculator) — Estimez précisément le montant de trésorerie de sécurité (équivalent Livret A) nécessaire selon vos charges fixes et votre stabilité professionnelle.
@@ -73,17 +73,22 @@ Découvrez ci-dessous quelques-uns des outils les plus sollicités, avec des lie
 * [Calculateur de Pourcentages, Remises & Évolutions](https://toolsaa.com/fr/tools/percentage-calculator) — Calculez instantanément pourcentages d'augmentation, réductions commerciales et variations relatives en 1 clic.
 * [Simulateur de Rachat & Renégociation de Crédit](https://toolsaa.com/fr/tools/auto-refinance-calculator) — Analysez le gain potentiel sur vos mensualités et le coût total d'intérêts lors de la renégociation d'un emprunt.
 * [Calculateur de Commissions & Marge Commerciale](https://toolsaa.com/fr/tools/commission-calculator) — Évaluez votre bénéfice net réel après déduction des commissions de plateformes et frais d'intermédiation.
+* [Simulateur de Prêt Immobilier & Amortissement](https://toolsaa.com/fr/tools/mortgage-calculator) — Mensualités précises, coût des intérêts et tableau complet de remboursement d'emprunt.
+* [Calculateur d'Objectif d'Épargne & Versements](https://toolsaa.com/fr/tools/savings-goal-calculator) — Planifiez l'effort d'épargne mensuel nécessaire pour concrétiser vos projets dans les délais.
 
 ### 2. 🏃 Santé, Forme & Métriques Corporelles
 * [Calculateur de Taux de Masse Grasse (Méthode US Navy)](https://toolsaa.com/fr/tools/body-fat-navy-calculator) — Évaluez précisément votre pourcentage de masse grasse à l'aide de mesures simples au mètre ruban (taille, cou, taille abdominale).
 * [Calculateur de Déficit Calorique & Perte de Poids](https://toolsaa.com/fr/tools/calorie-deficit-calculator) — Planifiez votre apport calorique journalier optimal pour une perte de masse grasse progressive et saine.
 * [Calculateur de 1RM (Charge Maximale au Développé Couché)](https://toolsaa.com/fr/tools/bench-press-one-rep-max-calculator) — Déduisez votre répétition maximale théorique en toute sécurité à partir de vos séries d'entraînement.
 * [Estimation du Taux d'Alcoolémie (Formule de Widmark)](https://toolsaa.com/fr/tools/blood-alcohol-calculator) — Modélisation scientifique du taux d'alcool dans le sang et du délai d'élimination hépatique selon le profil.
+* [Calculateur d'Apport Journalier en Eau](https://toolsaa.com/fr/tools/water-intake-calculator) — Volume d'hydratation recommandé en fonction du poids corporel, de la température et de l'intensité sportive.
 
 ### 3. ⏱️ Quotidien, Maison & Conversions Pratiques
 * [Convertisseur de Mesures Culinaires (Cuillères, Tasses & Grammes)](https://toolsaa.com/fr/tools/cooking-measurement-converter) — Convertissez aisément cuillères à soupe (c. à s.), cuillères à café (c. à c.), tasses (cups), grammes (g) et millilitres (ml).
 * [Convertisseur de Poids de Bagages de Voyage (kg ⇄ lbs)](https://toolsaa.com/fr/tools/luggage-weight-converter) — Convertissez vos kilos en livres et vérifiez les franchises bagages cabine et soute des compagnies aériennes.
 * [Compte à Rebours pour Événements & Échéances](https://toolsaa.com/fr/tools/event-countdown-timer) — Visualisez en temps réel les jours, heures et minutes restants avant une date butoir ou un événement important.
+* [Calculateur de Cycles de Sommeil & Réveil Idéal](https://toolsaa.com/fr/tools/sleep-cycle-calculator) — Identifiez les fenêtres de coucher et de lever naturelles basées sur les cycles REM de 90 minutes.
+* [Calculateur de Frais de Carburant & Trajets](https://toolsaa.com/fr/tools/fuel-cost-calculator) — Coût de l'essence ou diesel au kilomètre, budget d'itinéraire et partage équitable des frais de covoiturage.
 
 ### 4. 💻 Développement Web & Ingénierie Système
 * [Convertisseur de commandes cURL vers JavaScript fetch](https://toolsaa.com/fr/tools/curl-to-fetch-converter) — Transformez instantanément vos requêtes terminal cURL en code JavaScript moderne et prêt à l'emploi.
