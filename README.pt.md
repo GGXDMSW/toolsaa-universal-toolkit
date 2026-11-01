@@ -65,7 +65,7 @@ Seus dados digitados ──▶ [ Processados instantaneamente pelo seu navegador
 
 ## 📂 8 Categorias Principais e Ferramentas em Destaque
 
-Confira algumas das ferramentas mais utilizadas, com links diretos para a versão em português do Brasil:
+Confira algumas das ferramentas mais utilizadas, com links diretos para a versão em português do Brasil *(atualmente cobrindo 420 ferramentas em produção e 2.406 páginas estáticas multilíngues)*:
 
 ### 1. 💰 Finanças, Trabalho e Economia do Dia a Dia
 * [Calculadora de Reserva de Emergência](https://toolsaa.com/pt/tools/emergency-fund-calculator) — Calcule com precisão quantos meses de custo de vida você precisa guardar com base na sua estabilidade de renda e gastos fixos.
@@ -73,17 +73,22 @@ Confira algumas das ferramentas mais utilizadas, com links diretos para a versã
 * [Calculadora de Porcentagem e Descontos](https://toolsaa.com/pt/tools/percentage-calculator) — Calcule aumentos percentuais, descontos de promoções e variações relativas em 1 clique.
 * [Simulador de Refinanciamento e Redução de Juros](https://toolsaa.com/pt/tools/auto-refinance-calculator) — Veja quanto você economiza ao renegociar ou transferir a taxa de juros de um financiamento existente.
 * [Calculadora de Comissão e Margem de Lucro](https://toolsaa.com/pt/tools/commission-calculator) — Descubra o lucro líquido real das suas vendas após descontar taxas de plataformas e intermediações.
+* [Calculadora de Financiamento Imobiliário](https://toolsaa.com/pt/tools/mortgage-calculator) — Simulação de parcelas mensais, amortização de saldo devedor e custo efetivo total do crédito habitacional.
+* [Calculadora de Meta de Economia e Aportes](https://toolsaa.com/pt/tools/savings-goal-calculator) — Planeje quanto investir por mês para atingir o valor desejado no prazo estimado.
 
 ### 2. 🏃 Saúde, Bem-Estar e Métricas Corporais
 * [Calculadora de Gordura Corporal (Método da Marinha dos EUA)](https://toolsaa.com/pt/tools/body-fat-navy-calculator) — Estime com precisão a sua porcentagem de gordura usando apenas medidas de fita métrica (altura, pescoço e cintura).
 * [Calculadora de Déficit Calórico e Perda de Peso](https://toolsaa.com/pt/tools/calorie-deficit-calculator) — Planeje sua meta de calorias diárias e déficit ideal para emagrecer de forma sustentável e saudável.
 * [Calculadora de 1RM (Carga Máxima de Supino)](https://toolsaa.com/pt/tools/bench-press-one-rep-max-calculator) — Calcule a sua repetição máxima teórica sem precisar se lesionar tentando levantar o peso limite.
 * [Estimativa de Álcool no Sangue (BAC)](https://toolsaa.com/pt/tools/blood-alcohol-calculator) — Simulação de teor alcoólico e tempo médio de eliminação do organismo de acordo com peso e doses.
+* [Calculadora de Ingestão Diária de Água](https://toolsaa.com/pt/tools/water-intake-calculator) — Descubra o volume ideal de hidratação por dia com base no seu peso corporal, nível de treino e clima.
 
 ### 3. ⏱️ Dia a Dia, Casa e Conversões Práticas
 * [Conversor de Medidas Culinárias](https://toolsaa.com/pt/tools/cooking-measurement-converter) — Converta facilmente colheres de sopa, colheres de chá, xícaras, gramas (g) e mililitros (ml) para qualquer receita.
 * [Conversor de Peso de Bagagem de Viagem](https://toolsaa.com/pt/tools/luggage-weight-converter) — Converta quilos (kg) para libras (lbs) e confira os limites de bagagem despachada das companhias aéreas.
 * [Contagem Regressiva para Eventos e Metas](https://toolsaa.com/pt/tools/event-countdown-timer) — Acompanhe os dias, horas e minutos restantes para datas especiais, prazos ou férias.
+* [Calculadora de Ciclos do Sono e Horário de Acordar](https://toolsaa.com/pt/tools/sleep-cycle-calculator) — Encontre os horários perfeitos para dormir e acordar sem cansaço, respeitando os ciclos REM de 90 minutos.
+* [Calculadora de Custo de Combustível e Viagem](https://toolsaa.com/pt/tools/fuel-cost-calculator) — Calcule os gastos totais de gasolina/etanol por quilômetro e divida a conta da carona de forma justa.
 
 ### 4. 💻 Programação e Engenharia de Software
 * [Conversor de cURL para JavaScript fetch Moderno](https://toolsaa.com/pt/tools/curl-to-fetch-converter) — Transforme comandos cURL de terminal em código JavaScript limpo pronto para colar no seu projeto.
